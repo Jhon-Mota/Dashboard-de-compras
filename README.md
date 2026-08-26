@@ -11,4 +11,4 @@ Foi criado um dashboard interativo que apresenta informações sobre:
 - Criação de gráficos de barra, coluna e pizza;
 - Criação de medidas usando DAX
 
-<img width="1224" height="668" alt="Image" src="https://github.com/user-attachments/assets/42404c94-a5cd-4708-a1d9-84f8aee57bba" />
+<img width="1222" height="663" alt="Image" src="https://github.com/user-attachments/assets/5f2642e5-28e2-4000-b23b-758f6797f4c3" />
